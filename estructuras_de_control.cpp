@@ -1,4 +1,4 @@
-Código con estructuras de control, recepción de datos del usuario, switch-case, if:
+//Código con estructuras de control, recepción de datos del usuario, switch-case, if:
 
 #include <iostream>
 #include <iomanip> // Requerido para std::setprecision
