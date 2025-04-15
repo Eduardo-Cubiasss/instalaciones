@@ -1,6 +1,8 @@
 #include <iostream>
 #include "carros.h"
-int main(){
-    // Crear instancias y llamar funciones
-    return 0;
-}
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+} 
